@@ -1,5 +1,5 @@
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-title: Trenteve's homepage
-description: This is my basic homepage where I will post my projects.
+title: Trenteve's Homepage
+description: This is my homepage where I post my projects.
