@@ -2,6 +2,8 @@
 Here is my GitHub page for easy access to my Projects.
 [View my GitHub Profile](https://github.com/Trenteve)
 
+View my Lite version of Sailpoint Identity IQ: [RoleValidatorCLI](https://github.com/Trenteve/RoleValidatorCLI)
+
 View my Python Projects in my GitHub Repository: [Trent's Python Projects](https://github.com/Trenteve/Trenteve-python)
 
 View my Stardew Valley Project: [Stardew Valley](https://github.com/Trenteve/Stardew-Valley-Project)
